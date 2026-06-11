@@ -1,3 +1,4 @@
+
 # 📝 Notes Management System
 
 A full-stack MERN application for creating, managing, and searching notes — built with React, Node.js, Express, and MongoDB.
@@ -6,7 +7,7 @@ A full-stack MERN application for creating, managing, and searching notes — bu
 
 ## 🎥 Demo
 
-//
+Video Link - https://drive.google.com/file/d/1GMqQ4zDATtf4nIL5-YK2flSL0ea7UO24/view?usp=sharing
 
 
 ---
@@ -215,13 +216,6 @@ Note {
 
 ---
 
-
-## 📸 Screenshots
-
-<!-- Add screenshots of your app here after building -->
-<!-- Drag and drop images into this section on GitHub, or use this format: -->
-
----
 
 ## 👤 Author
 
